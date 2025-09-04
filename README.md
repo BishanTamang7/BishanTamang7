@@ -1,18 +1,18 @@
 # 👋 Hi, I'm Bishan Tamang  
 
-💻 AI/ML Engineer | Data Detective | Python Magician  
-☕ Fueled by coffee, curiosity, and endless "why is this NaN?" moments  
-🧠 Turning messy datasets into meaningful insights, predictions, and sometimes surprises  
+🤖 Aspiring AI/ML Engineer | Data Explorer | Python Enthusiast  
+☕ Fueled by coffee, curiosity, and endless “why isn’t this working?” moments  
+🧠 Turning datasets into insights while learning something new every day  
 
-🚀 What I do:  
-- Build models that predict, classify, and occasionally amaze  
-- Debug code like a stealthy ninja 🥷  
-- Experiment daily because “good enough” is never enough  
-- Push commits faster than gradient descent converges  
+🚀 What I do as a learner:  
+- Explore AI/ML concepts and implement them in small projects  
+- Experiment with models, datasets, and algorithms  
+- Debug my code like a silent ninja 🥷  
+- Learn from mistakes, papers, tutorials, and the occasional Stack Overflow post  
 
-😄 Fun Facts:  
-- I talk to my models more than humans… and sometimes they answer back!  
-- I celebrate when my model’s accuracy beats last week’s, not my own sleep schedule  
-- Coffee + AI = My magic formula ⚡  
+😄 Fun facts:  
+- I talk to my models like they understand me… sometimes they do!  
+- I celebrate when my model improves even 1% accuracy  
+- Coffee + curiosity = my secret AI superpower ⚡  
 
-💡 Goal: Solve real-world problems with AI, build projects that impress, and maybe make HR laugh along the way 😉
+💡 Goal: Grow as an AI/ML engineer, build meaningful projects, and have fun along the way!

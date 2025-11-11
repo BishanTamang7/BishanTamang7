@@ -1,18 +1,29 @@
 # 👋 Hi, I'm Bishan Tamang  
 
-🤖 Aspiring AI/ML Engineer | Data Explorer | Python Enthusiast  
-☕ Fueled by curiosity, persistence, and endless “why isn’t this working?” moments  
-🧠 Exploring datasets and building models while learning something new every day
+🧩 Aspiring Data Engineer | Data Pipeline Builder | SQL & Python Explorer  
+☕ Fueled by curiosity, problem-solving, and those “why is this query not running?” moments  
+📊 Turning raw data into insights while learning something new every day  
 
 🚀 What I do as a learner:  
-- Study AI/ML concepts and implement them in small projects  
-- Experiment with models, datasets, and algorithms  
-- Debug my code like a silent ninja 🥷  
-- Learn from mistakes, papers, tutorials, and the occasional Stack Overflow post  
+- Study data engineering concepts — from ETL to data warehousing  
+- Build small data projects using Python, SQL, and Docker  
+- Experiment with databases and pipeline orchestration tools like Airflow  
+- Break things (accidentally), fix them (eventually), and learn in between 😅  
+
+💡 Current Focus:  
+- Understanding **data pipelines**, **data modeling**, and **cloud data tools**  
+- Practicing **SQL** and **Python for data processing**  
+- Exploring **Docker** and **Airflow** for automation  
+
+📘 Learning by Doing:  
+- Setting up Oracle & PostgreSQL in Docker  
+- Building ETL pipelines for sample datasets  
+- Cleaning, transforming, and loading data like a data craftsman  
 
 😄 Fun facts:  
-- I talk to my models like they understand me… sometimes they do!  
-- I celebrate small improvements, even 1% better accuracy
-- Curiosity + persistence= my secret AI superpower ⚡  
+- I name my databases creatively (yes, one was called “datazilla”) 🦖  
+- I enjoy debugging SQL more than watching TV (sometimes)  
+- Persistence + curiosity = my data engineering power combo ⚡  
 
-💡 Goal: Grow as an AI/ML engineer, gain hands-on experience, and have fun along the way!
+🎯 Goal:  
+Grow into a skilled **Data Engineer**, design real-world **data workflows**, and help teams make data-driven decisions 🚀  

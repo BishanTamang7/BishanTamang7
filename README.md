@@ -26,4 +26,4 @@
 - Persistence + curiosity = my data engineering power combo ⚡  
 
 🎯 Goal:  
-Grow into a skilled **Data Engineer**, design real-world **data workflows**, and help teams make data-driven decisions 🚀
+Grow into a skilled **Data Engineer**, design real-world **data workflows**, and help teams make data-driven decisions 🚀🚀

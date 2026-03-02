@@ -1,29 +1,55 @@
-# 👋 Hi, I'm Bishan Tamang  
+# 👋 Hi, I'm Bishan Tamang
 
-🧩 Aspiring Data Engineer | Data Pipeline Builder | SQL & Python Explorer  
-☕ Fueled by curiosity, problem-solving, and those “why is this query not running?” moments  
-📊 Turning raw data into insights while learning something new every day  
+🧩 **Aspiring Backend Django Developer | API Builder | Python Problem Solver**  
+☕ Fueled by clean architecture, debugging sessions, and those “why is this endpoint returning 500?” moments  
 
-🚀 What I do as a learner:  
-- Study data engineering concepts — from ETL to data warehousing  
-- Build small data projects using Python, SQL, and Docker  
-- Experiment with databases and pipeline orchestration tools like Airflow  
-- Break things (accidentally), fix them (eventually), and learn in between 😅  
+---
 
-💡 Current Focus:  
-- Understanding **data pipelines**, **data modeling**, and **cloud data tools**  
-- Practicing **SQL** and **Python for data processing**  
-- Exploring **Docker** and **Airflow** for automation  
+## 🚀 What I do as a learner:
 
-📘 Learning by Doing:  
-- Setting up Oracle & PostgreSQL in Docker  
-- Building ETL pipelines for sample datasets  
-- Cleaning, transforming, and loading data like a data craftsman  
+- Study backend development concepts — from REST APIs to database design  
+- Build web applications using **Python** and **Django**  
+- Design and test APIs for real-world use cases  
+- Break things (accidentally), fix them (strategically), and learn every step of the way 😅  
 
-😄 Fun facts:  
-- I name my databases creatively (yes, one was called “datazilla”) 🦖  
-- I enjoy debugging SQL more than watching TV (sometimes)  
-- Persistence + curiosity = my data engineering power combo ⚡  
+---
 
-🎯 Goal:  
-Grow into a skilled **Data Engineer**, design real-world **data workflows**, and help teams make data-driven decisions 🚀🚀
+## 💡 Current Focus:
+
+- Mastering **Django** & **Django REST Framework (DRF)**  
+- Understanding authentication & authorization (**JWT, OAuth**)  
+- Writing optimized queries and improving backend performance  
+- Exploring **Docker** and deployment workflows  
+
+---
+
+## 📘 Learning by Doing:
+
+- Building RESTful APIs with Django  
+- Implementing authentication systems  
+- Connecting Django apps with **PostgreSQL** & **Redis**  
+- Deploying projects using Docker and cloud platforms  
+
+---
+
+## 🛠 Tech Stack I’m Exploring:
+
+- Python 🐍  
+- Django & DRF  
+- PostgreSQL  
+- Docker  
+- Git & GitHub  
+
+---
+
+## 😄 Fun facts:
+
+- I enjoy debugging backend logic more than scrolling social media 😄  
+- I care about clean code and meaningful variable names  
+- Persistence + logical thinking = my backend superpower ⚡  
+
+---
+
+## 🎯 Goal:
+
+Grow into a skilled **Backend Django Developer**, design scalable APIs, build secure systems, and contribute to impactful web applications 🚀

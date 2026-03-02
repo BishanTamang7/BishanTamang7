@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bishan Tamang
 
-🧩 **Aspiring Backend Django Developer | API Builder | Python Problem Solver**  
+🧩 **Aspiring Django Backend Developer | API Builder | Python Problem Solver**  
 ☕ Fueled by clean architecture, debugging sessions, and those “why is this endpoint returning 500?” moments  
 
 ---
@@ -52,4 +52,4 @@
 
 ## 🎯 Goal:
 
-Grow into a skilled **Backend Django Developer**, design scalable APIs, build secure systems, and contribute to impactful web applications 🚀
+Grow into a skilled **Django Backend Developer**, design scalable APIs, build secure systems, and contribute to impactful web applications 🚀🚀

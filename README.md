@@ -1,55 +1,55 @@
-# 👋 Hi, I'm Bishan Tamang
+# Bishan Tamang
 
-🧩 **Aspiring Django Backend Developer | API Builder | Python Problem Solver**  
-☕ Fueled by clean architecture, debugging sessions, and those “why is this endpoint returning 500?” moments  
+## Django Backend Developer | Python | REST APIs | PostgreSQL | Docker
 
----
-
-## 🚀 What I do as a learner:
-
-- Study backend development concepts — from REST APIs to database design  
-- Build web applications using **Python** and **Django**  
-- Design and test APIs for real-world use cases  
-- Break things (accidentally), fix them (strategically), and learn every step of the way 😅  
+Detail-oriented and growth-focused Django Backend Developer with hands-on experience building RESTful APIs and backend systems using Python and Django. Passionate about writing clean, maintainable code and designing scalable web architectures.
 
 ---
 
-## 💡 Current Focus:
+### 💼 What I Bring
 
-- Mastering **Django** & **Django REST Framework (DRF)**  
-- Understanding authentication & authorization (**JWT, OAuth**)  
-- Writing optimized queries and improving backend performance  
-- Exploring **Docker** and deployment workflows  
-
----
-
-## 📘 Learning by Doing:
-
-- Building RESTful APIs with Django  
-- Implementing authentication systems  
-- Connecting Django apps with **PostgreSQL** & **Redis**  
-- Deploying projects using Docker and cloud platforms  
+- Strong foundation in **Python** and backend development principles  
+- Experience building REST APIs using **Django** & **Django REST Framework**  
+- Database design and query optimization with **PostgreSQL**  
+- Authentication & Authorization (JWT, Role-Based Access Control)  
+- Containerization using **Docker**  
+- Version control and collaborative workflows using **Git & GitHub**  
+- Understanding of deployment and production environments  
 
 ---
 
-## 🛠 Tech Stack I’m Exploring:
+### 🛠 Technical Skills
 
-- Python 🐍  
-- Django & DRF  
-- PostgreSQL  
-- Docker  
-- Git & GitHub  
+**Languages:**  
+Python, SQL  
+
+**Frameworks & Backend Technologies:**  
+Django, Django REST Framework, Flask  
+
+**Databases & Caching:**  
+PostgreSQL, MySQL, Redis  
+
+**DevOps & Deployment Tools:**  
+Docker, Docker Compose, Nginx, Gunicorn  
+
+**Version Control & Collaboration:**  
+Git, GitHub  
+
+**Core Backend Concepts:**  
+RESTful API Design, Database Modeling, Authentication Systems, Middleware, Caching, Background Tasks (Celery), Performance Optimization  
 
 ---
 
-## 😄 Fun facts:
+### 📌 Projects & Practical Experience
 
-- I enjoy debugging backend logic more than scrolling social media 😄  
-- I care about clean code and meaningful variable names  
-- Persistence + logical thinking = my backend superpower ⚡  
+- Developed secure RESTful APIs for production-style applications  
+- Implemented authentication and role-based access control systems  
+- Designed relational database schemas and optimized SQL queries  
+- Containerized backend applications using Docker for consistent deployment  
+- Configured Gunicorn & Nginx for serving Django applications  
 
 ---
 
-## 🎯 Goal:
+### 🎯 Career Objective
 
-Grow into a skilled **Django Backend Developer**, design scalable APIs, build secure systems, and contribute to impactful web applications 🚀🚀
+Seeking an opportunity as a **Django Backend Developer** where I can contribute to building scalable backend systems, collaborate with cross-functional teams, and continue growing in modern backend technologies.

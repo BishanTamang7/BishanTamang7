@@ -3,6 +3,7 @@
 🧩 **Aspiring Django Backend Developer | API Builder | Python Problem Solver**  
 ☕ Fueled by clean architecture, debugging sessions, and those “why is this endpoint returning 500?” moments  
 
+---
 
 ## 🚀 What I do as a learner:
 
@@ -11,6 +12,7 @@
 - Design and test APIs for real-world use cases  
 - Break things (accidentally), fix them (strategically), and learn every step of the way 😅  
 
+---
 
 ## 💡 Current Focus:
 
@@ -19,6 +21,7 @@
 - Writing optimized queries and improving backend performance  
 - Exploring **Docker** and deployment workflows  
 
+---
 
 ## 📘 Learning by Doing:
 
@@ -27,6 +30,7 @@
 - Connecting Django apps with **PostgreSQL** & **Redis**  
 - Deploying projects using Docker and cloud platforms  
 
+---
 
 ## 🛠 Tech Stack I’m Exploring:
 
@@ -36,6 +40,7 @@
 - Docker  
 - Git & GitHub  
 
+---
 
 ## 😄 Fun facts:
 
@@ -43,6 +48,7 @@
 - I care about clean code and meaningful variable names  
 - Persistence + logical thinking = my backend superpower ⚡  
 
+---
 
 ## 🎯 Goal:
 

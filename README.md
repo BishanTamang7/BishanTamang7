@@ -1,9 +1,8 @@
 # 👋 Hi, I'm Bishan Tamang
 
-## Aspiring Django Backend Developer | Python | REST APIs | PostgreSQL | Docker
+## Django Backend Developer | Python | REST APIs | PostgreSQL | Docker
 
-I’m an aspiring backend developer passionate about building secure, scalable, and maintainable web applications using **Python** and **Django**.  
-I love learning by building projects, experimenting with backend concepts, and improving my skills every day.
+Backend-focused developer building secure, scalable web applications with **Python** and **Django**. Passionate about learning by building projects and creating efficient, maintainable backend systems.
 
 ---
 
@@ -15,7 +14,7 @@ I love learning by building projects, experimenting with backend concepts, and i
 
 **Frameworks & Tools:**  
 - Django & Django REST Framework  
-- Flask (basic understanding)  
+- Flask (basic knowledge)  
 
 **Databases & Caching:**  
 - PostgreSQL, MySQL  
@@ -32,10 +31,10 @@ I love learning by building projects, experimenting with backend concepts, and i
 
 ## 📌 Projects
 
-- **Inventory API (Learning Project)** – REST API for managing warehouse inventory using Django REST Framework, PostgreSQL, and Docker.  
-- **Task Manager App** – Implemented CRUD operations, user authentication, and role-based access; deployed locally using Docker.  
-- **Blog API** – Backend API with JWT authentication, CRUD functionality, and PostgreSQL integration.  
-- **ETL Data Scripts** – Python scripts to clean, transform, and store sample data in PostgreSQL for practice.  
+- **Inventory API** – REST API for managing warehouse inventory. Built with Django REST Framework, PostgreSQL, and Docker.  
+- **Task Manager App** – CRUD application with user authentication and role-based access, deployed locally using Docker.  
+- **ETL Data Pipeline Scripts** – Python scripts to clean, transform, and store sample data in PostgreSQL.  
+- **Blog Platform (Learning Project)** – Backend API with JWT authentication, CRUD operations, and PostgreSQL integration.  
 
 > All projects are available on my [GitHub profile](https://github.com/yourusername).  
 
@@ -48,7 +47,6 @@ I love learning by building projects, experimenting with backend concepts, and i
 - JWT & session-based authentication  
 - Containerized deployment (Docker, Gunicorn, Nginx)  
 - Writing clean, maintainable, and scalable code  
-- Strong problem-solving and debugging mindset  
 
 ---
 
@@ -59,7 +57,3 @@ I love learning by building projects, experimenting with backend concepts, and i
 - Persistence + curiosity = my backend learning power combo 🚀  
 
 ---
-
-## 🎯 Goal
-
-To grow into a skilled **Django Backend Developer**, contribute to real-world backend systems, and build scalable, secure, and efficient web applications.

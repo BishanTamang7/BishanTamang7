@@ -1,55 +1,56 @@
 # 👋 Hi, I'm Bishan Tamang
 
-🧩 **Aspiring Django Backend Developer | API Builder | Python Problem Solver**  
-☕ Fueled by clean architecture, debugging sessions, and those “why is this endpoint returning 500?” moments  
+🧩 **Aspiring .NET Backend Developer | API Builder | C# Problem Solver**  
+☕ Fueled by clean architecture, debugging sessions, and those “why is this API returning 500?” moments  
 
 ---
 
 ## 🚀 What I do as a learner:
 
-- Study backend development concepts — from REST APIs to database design  
-- Build web applications using **Python** and **Django**  
-- Design and test APIs for real-world use cases  
-- Break things (accidentally), fix them (strategically), and learn every step of the way 😅  
+- Study backend development concepts — from REST APIs to scalable system design  
+- Build web applications using **C#** and **ASP.NET Core**  
+- Design and test APIs for real-world applications  
+- Break things (accidentally), debug them (strategically), and learn from every error 😅  
 
 ---
 
 ## 💡 Current Focus:
 
-- Mastering **Django** & **Django REST Framework (DRF)**  
+- Mastering **ASP.NET Core** and **.NET Web API**  
 - Understanding authentication & authorization (**JWT, OAuth**)  
-- Writing optimized queries and improving backend performance  
-- Exploring **Docker** and deployment workflows  
+- Writing optimized database queries and improving backend performance  
+- Exploring **Docker**, CI/CD pipelines, and deployment workflows  
 
 ---
 
 ## 📘 Learning by Doing:
 
-- Building RESTful APIs with Django  
-- Implementing authentication systems  
-- Connecting Django apps with **PostgreSQL** & **Redis**  
-- Deploying projects using Docker and cloud platforms  
+- Building RESTful APIs with **ASP.NET Core Web API**  
+- Implementing authentication and authorization systems  
+- Connecting applications with **SQL Server** & **Redis**  
+- Deploying projects using **Docker** and cloud platforms  
 
 ---
 
 ## 🛠 Tech Stack I’m Exploring:
 
-- Python 🐍  
-- Django & DRF  
-- PostgreSQL  
-- Docker  
-- Git & GitHub  
+- C#
+- .NET / ASP.NET Core
+- SQL Server
+- Redis
+- Docker
+- Git & GitHub
 
 ---
 
 ## 😄 Fun facts:
 
 - I enjoy debugging backend logic more than scrolling social media 😄  
-- I care about clean code and meaningful variable names  
-- Persistence + logical thinking = my backend superpower ⚡  
+- I care about **clean architecture and maintainable code**  
+- Logical thinking + persistence = my backend superpower ⚡  
 
 ---
 
 ## 🎯 Goal:
 
-Grow into a skilled **Django Backend Developer**, design scalable APIs, build secure systems, and contribute to impactful web applications 🚀🚀
+Grow into a skilled **.NET Backend Developer**, design scalable APIs, build secure backend systems, and contribute to impactful software solutions 🚀
